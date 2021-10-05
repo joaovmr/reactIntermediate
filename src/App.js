@@ -1,10 +1,10 @@
 import React from 'react'
-import Final from './tutorial/1-useState/final/3-useState-array'
+import Setup from './tutorial/4-forms/setup/1-controlled-inputs'
 
 function App() {
   return (
     <div className='container'>
-      <Final/>
+      <Setup/>
     </div>
   )
 }
